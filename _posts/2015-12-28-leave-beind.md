@@ -1,5 +1,5 @@
 ---
-title: "Podcast #16 - What will you leave beind"
+title: "Podcast #16 - What will you leave behind?"
 author: Lourenco de Azevedo
 layout: post
 file: "http://epodcasts.s3.amazonaws.com/chikungstories16.mp3"
