@@ -8,7 +8,7 @@ image: "/images/stories.jpg"
 <p align="center"><img src="{{ base.url }}{{ page.image }}" style="border-radius: 15px; width: 100%"></p>
 
 <section id="archive">
-                    <h3>2015</h3>
+                    <h3>2016</h3>
                                     {%for post in site.posts %}
                                     {% unless post.next %}
                     <ul class="this">
